@@ -53,5 +53,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = thibault.chassine@gmail.com
-	name = Thibault Chassine
+	email = Chassine
+	name = Thibault
